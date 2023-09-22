@@ -1,0 +1,17 @@
+3. Stacks
+A stack is a LIFO (Last In First Out — the element placed at last can be accessed at first) structure which can be commonly found in many programming languages. This structure is named as “stack” because it resembles a real-world stack — a stack of plates.
+
+Image by congerdesign from Pixabay
+Stack operations
+Given below are the 2 basic operations that can be performed on a stack. Please refer to Figure 3 to get a better understanding of the stack operations.
+Push: Insert an element on to the top of the stack.
+Pop: Delete the topmost element and return it.
+
+Fig 3. Visualization of basic Operations of Stacks (Image by author)
+Furthermore, the following additional functions are provided for a stack in order to check its status.
+Peek: Return the top element of the stack without deleting it.
+isEmpty: Check if the stack is empty.
+isFull: Check if the stack is full.
+Applications of stacks
+Used for expression evaluation (e.g.: shunting-yard algorithm for parsing and evaluating mathematical expressions).
+Used to implement function calls in recursion programming.

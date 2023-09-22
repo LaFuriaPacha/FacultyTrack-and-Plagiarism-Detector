@@ -1,0 +1,13 @@
+4. Queues
+A queue is a FIFO (First In First Out — the element placed at first can be accessed at first) structure which can be commonly found in many programming languages. This structure is named as “queue” because it resembles a real-world queue — people waiting in a queue.
+
+Image by Sabine Felidae from Pixabay
+Queue operations
+Given below are the 2 basic operations that can be performed on a queue. Please refer to Figure 4 to get a better understanding of the queue operations.
+Enqueue: Insert an element to the end of the queue.
+Dequeue: Delete the element from the beginning of the queue.
+
+Fig 4. Visualization of Basic Operations of Queues (Image by author)
+Applications of queues
+Used to manage threads in multithreading.
+Used to implement queuing systems (e.g.: priority queues).
